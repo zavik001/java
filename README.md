@@ -1,52 +1,43 @@
-# Java
+# Java Core
 
-## java Core
-
-1. [MainLifeCycle](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/java/core/MainLifeCycleExample.java)
+1. [Main Lifecycle](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/java/core/MainLifeCycleExample.java)
 2. [Javac](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/java/core/JavacExample.java)
 3. [ClassLoader](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/java/core/ClassLoaderExample.java)
-4. [GC](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/java/core/GCExample.java)
+4. [Garbage Collector](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/java/core/GCExample.java)
 5. [JDK](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/java/core/JDKExample.java)
 
-<br>
-
 6. [Reflection](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/ReflectionTest.java)
-7. [IOnewIO](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/IOnewIOTest.java)
-8. [Net](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/NetTest.java)
-9. [StreamAPI](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/StreamAPITest.java)
-10. [PatternMatcher](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/PatternMatcherTest.java)
-11. [DataTime](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/DataTimeTest.java)
+7. [IO & NIO](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/IOnewIOTest.java)
+8. [Networking](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/NetTest.java)
+9. [Stream API](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/StreamAPITest.java)
+10. [Pattern Matcher](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/PatternMatcherTest.java)
+11. [Date & Time](https://github.com/zavik001/transactions/blob/main/src/test/java/example/transactions/DataTimeTest.java)
 
-<br>
+12. [Generics, equals/hashCode, Multithreading, JCF, Spliterator](https://github.com/zavik001/APJ1_Bootcamp/blob/main/EXAMPLE/app/src/main/java/org/example/App.java)
+13. [Anonymous Classes](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/anon-clases.md)
+14. [Functional Interfaces](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/funtional-interfaces.md)
+15. [Lambda Expressions](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/lamda-expressions.md)
+16. [Method References](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/method-referende.md)
+17. [Optional](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/OptinalExample.java)
 
-12. [generics, equals-hashcode, multithreding, JCF(Java Collection Framework), Spliterator](https://github.com/zavik001/APJ1_Bootcamp/blob/main/EXAMPLE/app/src/main/java/org/example/App.java)
-13. [anon-calses](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/anon-clases.md)
-14. [funtional-interfaces](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/funtional-interfaces.md)
-15. [lamda-expressions](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/lamda-expressions.md)
-16. [method-referende](https://github.com/zavik001/APJ1_Bootcamp/blob/main/AP1-Jv-T02/method-referende.md)
-17. [Optinal](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/OptinalExample.java)
+---
 
-<br>
+# Spring
 
-# Spring 
-
-## Spring Core
-
-- [beans](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringBeanExample.java)
-- [context](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringContextExample.java)
-- [spring core](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringCoreExample.java)
+## Core
+- [Beans](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringBeanExample.java)
+- [Context](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringContextExample.java)
+- [Spring Core](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringCoreExample.java)
 - spring-context-support
 - spring-expression
 
-## spring aop
-
-- [spring aop](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringAOPExample.java)
+## AOP
+- [Spring AOP](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringAOPExample.java)
 - spring-aspects
 - spring-instrument
 
-## spring data
-
-- [spring data](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringDataExample.java)
+## Data
+- [Spring Data](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringDataExample.java)
 - spring-jdbc
 - spring-tx
 - spring-orm
@@ -57,56 +48,82 @@
 - Spring Data MongoDB
 - Spring Data REST
 
-## spring valid
-
+## Validation
 - spring-validation
 
-## spring boot
-
-- [spring boot](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringBootExample.java)
+## Boot
+- [Spring Boot](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringBootExample.java)
 - Starters
 - AutoConfiguration
 - Actuator
 - DevTools
 - CLI
 
-## spring kafka
+## Kafka
+- [Spring Kafka](https://github.com/zavik001/springboot-kafka-jpa-demo/blob/main/kafka-orders-demo/src/main/java/kafka/orders/example/example/KafkaExample.java)
 
-- [spring kafka](https://github.com/zavik001/springboot-kafka-jpa-demo/blob/main/kafka-orders-demo/src/main/java/kafka/orders/example/example/KafkaExample.java)
+## Security
+- [Spring Security](https://github.com/zavik001/spring-security/blob/main/README.md)
 
-## spring security
+## Web
+- [Spring Web](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringWebExample.java)
 
-- [spring security](https://github.com/zavik001/spring-security/blob/main/README.md)
-
-## spring web
-
-- [spring web](https://github.com/zavik001/transactions/blob/main/src/main/java/example/transactions/examples/SpringWebExample.java)
-
-## spring messaging
-
+## Messaging
 - spring-messaging
 
-## spring testing
-
+## Testing
 - spring-test
 
-## spring batch
-
+## Batch
 - spring-batch
 
-## spring integration
-
+## Integration
 - spring-integration
 
-## spring cloud
-
+## Cloud
 - spring-cloud
 
-## spring other
-
+## Other
 - spring-context-indexer
 - XML config
 - Spring AMQP
 - Spring GraphQL
 - Spring Session
 - Spring HATEOAS
+
+---
+
+# Hibernate (ORM)
+- Hibernate basics
+- JPA vs Hibernate
+- Entity lifecycle
+- Associations (OneToOne, OneToMany, ManyToMany)
+- HQL / JPQL
+- Transactions & locking
+- Caching (L1, L2, query cache)
+- Lazy vs Eager loading, N+1 problem
+
+---
+
+# Databases
+
+## PostgreSQL
+- DDL/DML
+- Indexes & query optimization
+- Transactions & isolation levels
+- Joins, views, CTE
+- JSONB / Arrays
+
+## Redis
+- Basics (String, Hash, List, Set, SortedSet)
+- TTL, Pub/Sub
+- Transactions & pipelines
+
+---
+
+# Architecture & Patterns
+- SOLID principles
+- GoF patterns (Singleton, Factory, Observer, etc.)
+- Microservices (pros/cons, communication: REST, gRPC, Kafka)
+- Event-driven architecture
+- CQRS, Saga, Outbox pattern
